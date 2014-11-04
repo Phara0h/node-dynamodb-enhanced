@@ -1,6 +1,6 @@
 {
   "name": "dynamodb-enhanced",
-  "version": "0.4.0a",
+  "version": "0.4.0b",
   "description": "Simple DynamoDB Library for Node.js. enhanced version of dynamodb by Stanislas Polu",
   "keywords": ["dynamo", "node", "db", "aws", "amazon"],
   "homepage": "https://github.com/teleportd/node-dynamodb",
