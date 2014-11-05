@@ -115,7 +115,7 @@ Available options for the constructor are the following:
 
 ### Query
 
-    ddb.query('test', '3d2d6963', {}, function(err, res, cap) {...});
+    ddb.query('test', '{id: 3d2d6963}',{id: 'EQ'} ,{filter:{keys:{foo:12},operators:{foo:'GT'}}}, function(err, res, cap) {...});
 
     // res: { count: 23,
     //        lastEvaluatedKey: { hash: '3d2d6963' },
