@@ -1,6 +1,6 @@
 {
   "name": "dynamodb-enhanced",
-  "version": "0.4.0ao",
+  "version": "0.4.0ap",
   "description": "Simple DynamoDB Library for Node.js. enhanced version of dynamodb by Stanislas Polu",
   "keywords": [
     "dynamo",
