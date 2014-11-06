@@ -1,6 +1,6 @@
 {
   "name": "dynamodb-enhanced",
-  "version": "0.4.0ai",
+  "version": "0.4.0aj",
   "description": "Simple DynamoDB Library for Node.js. enhanced version of dynamodb by Stanislas Polu",
   "keywords": [
     "dynamo",
@@ -32,7 +32,6 @@
     "Anthony Moi"
   ],
   "dependencies": {
-    "aws-sdk": "^2.0.23",
     "fwk": "0.1.x"
   },
   "main": "./lib/ddb",
